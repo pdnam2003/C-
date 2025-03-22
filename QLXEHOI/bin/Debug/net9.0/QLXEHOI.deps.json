@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "QLXEHOI/1.0.0": {
+        "dependencies": {
+          "Microsoft.DotNet.ILCompiler": "9.0.3",
+          "Microsoft.NET.ILLink.Tasks": "9.0.3",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.2"
+        },
+        "runtime": {
+          "QLXEHOI.dll": {}
+        }
+      },
+      "Microsoft.DotNet.ILCompiler/9.0.3": {},
+      "Microsoft.NET.ILLink.Tasks/9.0.3": {},
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.2": {}
+    }
+  },
+  "libraries": {
+    "QLXEHOI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.DotNet.ILCompiler/9.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UqR8lcAIRC5zPk97txAJlsCvDhP9jxV7JSxEMkm3QI384aq/sU0zYiC8kms4ooNtixORgZxbFrDAsYCewR4X2Q==",
+      "path": "microsoft.dotnet.ilcompiler/9.0.3",
+      "hashPath": "microsoft.dotnet.ilcompiler.9.0.3.nupkg.sha512"
+    },
+    "Microsoft.NET.ILLink.Tasks/9.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1rqGTfubVg0qj2PsK6esyq3PIxtYJYrN3LsYUV9RrvH3anmt3fT3ozYdAZZH4U8JU/pt5pPIUk8NBSu26wtekA==",
+      "path": "microsoft.net.illink.tasks/9.0.3",
+      "hashPath": "microsoft.net.illink.tasks.9.0.3.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kN58RveGig9YjWAoYI3flDWC/jWCU0Xzzmp3f49fbnPwZLsVJu9qMt+VSrIz7I3Gn6jkeY1l7cVJopiRDOq3CQ==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.21.2",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.21.2.nupkg.sha512"
+    }
+  }
+}

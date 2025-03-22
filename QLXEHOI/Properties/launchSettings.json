@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "QLXEHOI": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

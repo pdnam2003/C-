@@ -1,0 +1,14 @@
+D:\.netcoding\QLXEHOI\obj\Debug\net9.0\QLXEHOI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netcoding\QLXEHOI\obj\Debug\net9.0\QLXEHOI.AssemblyInfoInputs.cache
+D:\.netcoding\QLXEHOI\obj\Debug\net9.0\QLXEHOI.AssemblyInfo.cs
+D:\.netcoding\QLXEHOI\obj\Debug\net9.0\QLXEHOI.csproj.CoreCompileInputs.cache
+D:\.netcoding\QLXEHOI\bin\Debug\net9.0\QLXEHOI.exe
+D:\.netcoding\QLXEHOI\bin\Debug\net9.0\QLXEHOI.deps.json
+D:\.netcoding\QLXEHOI\bin\Debug\net9.0\QLXEHOI.runtimeconfig.json
+D:\.netcoding\QLXEHOI\bin\Debug\net9.0\QLXEHOI.dll
+D:\.netcoding\QLXEHOI\bin\Debug\net9.0\QLXEHOI.pdb
+D:\.netcoding\QLXEHOI\obj\Debug\net9.0\QLXEHOI.dll
+D:\.netcoding\QLXEHOI\obj\Debug\net9.0\refint\QLXEHOI.dll
+D:\.netcoding\QLXEHOI\obj\Debug\net9.0\QLXEHOI.pdb
+D:\.netcoding\QLXEHOI\obj\Debug\net9.0\QLXEHOI.genruntimeconfig.cache
+D:\.netcoding\QLXEHOI\obj\Debug\net9.0\ref\QLXEHOI.dll
