@@ -1,0 +1,14 @@
+D:\.netcoding\QUANLYHOCSINH\bin\Debug\net9.0\QUANLYHOCSINH.exe
+D:\.netcoding\QUANLYHOCSINH\bin\Debug\net9.0\QUANLYHOCSINH.deps.json
+D:\.netcoding\QUANLYHOCSINH\bin\Debug\net9.0\QUANLYHOCSINH.runtimeconfig.json
+D:\.netcoding\QUANLYHOCSINH\bin\Debug\net9.0\QUANLYHOCSINH.dll
+D:\.netcoding\QUANLYHOCSINH\bin\Debug\net9.0\QUANLYHOCSINH.pdb
+D:\.netcoding\QUANLYHOCSINH\obj\Debug\net9.0\QUANLYHOCSINH.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netcoding\QUANLYHOCSINH\obj\Debug\net9.0\QUANLYHOCSINH.AssemblyInfoInputs.cache
+D:\.netcoding\QUANLYHOCSINH\obj\Debug\net9.0\QUANLYHOCSINH.AssemblyInfo.cs
+D:\.netcoding\QUANLYHOCSINH\obj\Debug\net9.0\QUANLYHOCSINH.csproj.CoreCompileInputs.cache
+D:\.netcoding\QUANLYHOCSINH\obj\Debug\net9.0\QUANLYHOCSINH.dll
+D:\.netcoding\QUANLYHOCSINH\obj\Debug\net9.0\refint\QUANLYHOCSINH.dll
+D:\.netcoding\QUANLYHOCSINH\obj\Debug\net9.0\QUANLYHOCSINH.pdb
+D:\.netcoding\QUANLYHOCSINH\obj\Debug\net9.0\QUANLYHOCSINH.genruntimeconfig.cache
+D:\.netcoding\QUANLYHOCSINH\obj\Debug\net9.0\ref\QUANLYHOCSINH.dll
